@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0D406BBE-48A4-4867-9CFD-28FDB31EED0A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessManag</RootNamespace>
+    <AssemblyName>BusinessManag</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\LK-WZ-SAAS\plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="YiTian, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YiTian.dll</HintPath>
+    </Reference>
+    <Reference Include="YtClient, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtClient.dll</HintPath>
+    </Reference>
+    <Reference Include="YtPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="YtUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="YtWinContrl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtWinContrl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="form2\InWare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form2\InWare.Designer.cs">
+      <DependentUpon>InWare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form2\OutWare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form2\OutWare.Designer.cs">
+      <DependentUpon>OutWare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form2\PlanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form2\PlanForm.Designer.cs">
+      <DependentUpon>PlanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\DiaoBoEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\DiaoBoEdit.designer.cs">
+      <DependentUpon>DiaoBoEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\QuitEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\QuitEdit.designer.cs">
+      <DependentUpon>QuitEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ShenLingEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ShenLingEdit.designer.cs">
+      <DependentUpon>ShenLingEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\WZPanDian_DetailScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\WZPanDian_DetailScan.designer.cs">
+      <DependentUpon>WZPanDian_DetailScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\WZTiaoJia_DetailScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\WZTiaoJia_DetailScan.designer.cs">
+      <DependentUpon>WZTiaoJia_DetailScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\WZUseRec_DetailScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\WZUseRec_DetailScan.designer.cs">
+      <DependentUpon>WZUseRec_DetailScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="WZDiaoBo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZDiaoBo.designer.cs">
+      <DependentUpon>WZDiaoBo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZIn.Designer.cs">
+      <DependentUpon>WZIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZOut.Designer.cs">
+      <DependentUpon>WZOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZPanDian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZPanDian.designer.cs">
+      <DependentUpon>WZPanDian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZPlan.Designer.cs">
+      <DependentUpon>WZPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZQuit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZQuit.designer.cs">
+      <DependentUpon>WZQuit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZShenLing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZShenLing.designer.cs">
+      <DependentUpon>WZShenLing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZTiaoJia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZTiaoJia.designer.cs">
+      <DependentUpon>WZTiaoJia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZUseRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZUseRec.designer.cs">
+      <DependentUpon>WZUseRec.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChSys\ChSys.csproj">
+      <Project>{2B41A68B-2591-4363-885C-43BBF0542ABA}</Project>
+      <Name>ChSys</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="form2\InWare.resx">
+      <DependentUpon>InWare.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form2\OutWare.resx">
+      <DependentUpon>OutWare.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form2\PlanForm.resx">
+      <DependentUpon>PlanForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\DiaoBoEdit.resx">
+      <DependentUpon>DiaoBoEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\QuitEdit.resx">
+      <DependentUpon>QuitEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ShenLingEdit.resx">
+      <DependentUpon>ShenLingEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\WZPanDian_DetailScan.resx">
+      <DependentUpon>WZPanDian_DetailScan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\WZTiaoJia_DetailScan.resx">
+      <DependentUpon>WZTiaoJia_DetailScan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\WZUseRec_DetailScan.resx">
+      <DependentUpon>WZUseRec_DetailScan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZDiaoBo.resx">
+      <DependentUpon>WZDiaoBo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZIn.resx">
+      <DependentUpon>WZIn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZOut.resx">
+      <DependentUpon>WZOut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZPanDian.resx">
+      <DependentUpon>WZPanDian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZPlan.resx">
+      <DependentUpon>WZPlan.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZQuit.resx">
+      <DependentUpon>WZQuit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZShenLing.resx">
+      <DependentUpon>WZShenLing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZTiaoJia.resx">
+      <DependentUpon>WZTiaoJia.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZUseRec.resx">
+      <DependentUpon>WZUseRec.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

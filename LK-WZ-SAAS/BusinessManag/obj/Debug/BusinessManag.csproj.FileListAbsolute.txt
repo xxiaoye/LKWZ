@@ -1,0 +1,1164 @@
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\BusinessManag.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\BusinessManag.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\ChSys.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\DevComponents.DotNetBar2.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YiTian.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtClient.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtPlugin.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtUtil.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtWinContrl.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtDict.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\office.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\IBM.Data.DB2.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtSys.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\ChSys.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtWinContrl.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtWinContrl.xml
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtDict.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\DevComponents.DotNetBar2.xml
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtUtil.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtUtil.xml
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtClient.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtClient.xml
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtSys.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YtPlugin.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YiTian.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\bin\Debug\YiTian.xml
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanDetail.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanMain.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Add.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInDetail.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInMain.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutDetail.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutMain.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanDetail.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanMain.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\YaoKu.yao.PanDianMxForm.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Add.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_AddDetail.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Updata.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddDetail.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddMain.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Add.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Updata.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\lkwz合并版\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\lkwz合并版\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInDetail.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInMain.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutDetail.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutMain.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanDetail.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanMain.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\YaoKu.yao.PanDianMxForm.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Add.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_AddDetail.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Updata.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddDetail.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddMain.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Add.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Updata.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\lkwz合并版\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInMain.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutMain.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanMain.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_AddDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Updata.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddMain.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Updata.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInDetail.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInMain.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutDetail.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutMain.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanDetail.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanMain.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Add.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_AddDetail.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Updata.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddDetail.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddMain.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Add.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Updata.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInDetail.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInMain.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutDetail.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutMain.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanDetail.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanMain.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Add.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_AddDetail.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Updata.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddDetail.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddMain.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Add.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Updata.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInDetail.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInMain.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutDetail.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutMain.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanDetail.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanMain.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Add.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_AddDetail.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Updata.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddDetail.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddMain.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Add.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Updata.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInDetail.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZInMain.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutDetail.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZOutMain.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanDetail.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.AddWZPlanMain.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Add.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_AddDetail.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_Updata.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddDetail.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_AddMain.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Add.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_Updata.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+G:\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+G:\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+G:\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+G:\lkwz_10-8\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\LK-WZ-SAAS(10-21)\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\LKWZ-12-2\LKWZ_20131202\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+D:\LK-WZ-SAAS(12-8)\LK-WZ-SAAS(12-8-Song)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.dll
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\LK-WZ-SAAS\plugins\BusinessManag.pdb
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.InWare.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.OutWare.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form2.PlanForm.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.DiaoBoEdit.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.QuitEdit.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.ShenLingEdit.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZPanDian_DetailScan.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZTiaoJia_DetailScan.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.form.WZUseRec_DetailScan.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.Properties.Resources.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZDiaoBo.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZIn.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZOut.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPanDian.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZPlan.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZQuit.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZShenLing.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZTiaoJia.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.WZUseRec.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.dll
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\BusinessManag\obj\Debug\BusinessManag.pdb

@@ -1,0 +1,1191 @@
+E:\proj\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\JiChuDict.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\JiChuDict.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\ChSys.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\DevComponents.DotNetBar2.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YiTian.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtClient.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtPlugin.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtUtil.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtWinContrl.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtDict.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\office.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\IBM.Data.DB2.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtSys.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\ChSys.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtWinContrl.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtWinContrl.xml
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtDict.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\DevComponents.DotNetBar2.xml
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtUtil.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtUtil.xml
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtClient.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtClient.xml
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtSys.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YtPlugin.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YiTian.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\bin\Debug\YiTian.xml
+E:\proj\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\proj\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\proj\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\proj\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\proj\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\proj_new\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\proj_new\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\WZ\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\WZ\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\WZ\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\WZ\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\WZ\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\WZ\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\WZ\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\WZ\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\proj_new\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\LKWZ_backUp617_1 - 副本\LKWZ_backUp617_1 - 副本\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\lkwz合并版\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\lkwz合并版\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\lkwz合并版\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\lkwz\lkwzCombine\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\lkwzCombine\lkwzCombine(7_17)\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\物料管理项目\722\lkwzCombine\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+G:\lkwz\lkwzCombine(7-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+G:\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+G:\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+G:\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\0821\lkwz(8-5)_52687\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\项目\1\lkwz0821修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\项目\项目1\lkwz0821修改3\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\lkwz\lkwz0822修改\lkwz0822修改\修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\项目\项目1\LKWZ(8-23)\LKWZ(8-23)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\lkwzCombine\LK-WZ-SAAS（0829）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\lkwzCombine\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\LK-WZ-SAAS（0905）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+C:\Documents and Settings\Administrator\桌面\LK-WZ-SAAS0911\LK-WZ-SAAS（0905最新版）\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+F:\LK-WZ-SAAS0911修改\LK-WZ-SAAS0911修改\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\1008\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-7-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(10-9)\LK-WZ-SAAS(10-10-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\LK-WZ-SAAS(10-11-song1014)\LK-WZ-SAAS(10-11-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(10-18)\LK-WZ-SAAS(10-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+G:\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS(10-19-song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\LK-WZ-SAAS(10-19-jun)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(10-21)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\song\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\LK-WZ-SAAS(10-21)\LK-WZ-SAAS(11-18)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\jun\wang-LK-WZ-SAAS(11-20)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\lkwz\LK-WZ-SAAS(11-22-合并)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS(11-28-Song&Wang)\LK-WZ-SAAS(11-28-Song)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\1202\LKWZ_Wang&Song\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\LKWZ-12-2\Wang_LKWZ_20131204\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+D:\lkwz\Wang_LKWZ_20131207\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.dll
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\LK-WZ-SAAS\plugins\JiChuDict.pdb
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZ.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZPrice.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.AddWZUnit.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.CountKindForm.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.InOutForm.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.SetWZDetail.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDictDetail.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZDict_Add.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZKind_Add.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.form.WZSupply_Add.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.ProjectUnitManag.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.Properties.Resources.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.SysValueManag.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZCountKindManag.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZDictManag.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZInOutManag.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZKindManag.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZManagModel.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZPriceManag.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZSupply.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.WZWareManag.resources
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.csproj.GenerateResource.Cache
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.dll
+E:\叶翔斌\项目\1213\LKWZ1213\LK-WZ-SAAS\JiChuDict\obj\Debug\JiChuDict.pdb

@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8C89393B-8293-4BEA-B93A-9DEC9714B138}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JiChuDict</RootNamespace>
+    <AssemblyName>JiChuDict</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\LK-WZ-SAAS\plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.0.0.3, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="YiTian, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YiTian.dll</HintPath>
+    </Reference>
+    <Reference Include="YtClient, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtClient.dll</HintPath>
+    </Reference>
+    <Reference Include="YtPlugin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="YtUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="YtWinContrl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtWinContrl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="form\AddWZ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\AddWZ.Designer.cs">
+      <DependentUpon>AddWZ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\AddWZPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\AddWZPrice.Designer.cs">
+      <DependentUpon>AddWZPrice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\AddWZUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\AddWZUnit.Designer.cs">
+      <DependentUpon>AddWZUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\CountKindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\CountKindForm.designer.cs">
+      <DependentUpon>CountKindForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutForm.designer.cs">
+      <DependentUpon>InOutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SetWZDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SetWZDetail.Designer.cs">
+      <DependentUpon>SetWZDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\WZDictDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\WZDictDetail.designer.cs">
+      <DependentUpon>WZDictDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\WZDict_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\WZDict_Add.designer.cs">
+      <DependentUpon>WZDict_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\WZKind_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\WZKind_Add.designer.cs">
+      <DependentUpon>WZKind_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\WZSupply_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\WZSupply_Add.designer.cs">
+      <DependentUpon>WZSupply_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectUnitManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectUnitManag.Designer.cs">
+      <DependentUpon>ProjectUnitManag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SysValueManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SysValueManag.designer.cs">
+      <DependentUpon>SysValueManag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZCountKindManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZCountKindManag.designer.cs">
+      <DependentUpon>WZCountKindManag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZDictManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZDictManag.designer.cs">
+      <DependentUpon>WZDictManag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZInOutManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZInOutManag.designer.cs">
+      <DependentUpon>WZInOutManag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZKindManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZKindManag.designer.cs">
+      <DependentUpon>WZKindManag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZManagModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZManagModel.designer.cs">
+      <DependentUpon>WZManagModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZPriceManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZPriceManag.Designer.cs">
+      <DependentUpon>WZPriceManag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZSupply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZSupply.designer.cs">
+      <DependentUpon>WZSupply.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WZWareManag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WZWareManag.Designer.cs">
+      <DependentUpon>WZWareManag.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChSys\ChSys.csproj">
+      <Project>{2B41A68B-2591-4363-885C-43BBF0542ABA}</Project>
+      <Name>ChSys</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="form\AddWZ.resx">
+      <DependentUpon>AddWZ.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\AddWZPrice.resx">
+      <DependentUpon>AddWZPrice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\AddWZUnit.resx">
+      <DependentUpon>AddWZUnit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\CountKindForm.resx">
+      <DependentUpon>CountKindForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutForm.resx">
+      <DependentUpon>InOutForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SetWZDetail.resx">
+      <DependentUpon>SetWZDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\WZDictDetail.resx">
+      <DependentUpon>WZDictDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\WZDict_Add.resx">
+      <DependentUpon>WZDict_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\WZKind_Add.resx">
+      <DependentUpon>WZKind_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\WZSupply_Add.resx">
+      <DependentUpon>WZSupply_Add.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectUnitManag.resx">
+      <DependentUpon>ProjectUnitManag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SysValueManag.resx">
+      <DependentUpon>SysValueManag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZCountKindManag.resx">
+      <DependentUpon>WZCountKindManag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZDictManag.resx">
+      <DependentUpon>WZDictManag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZInOutManag.resx">
+      <DependentUpon>WZInOutManag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZKindManag.resx">
+      <DependentUpon>WZKindManag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZManagModel.resx">
+      <DependentUpon>WZManagModel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZPriceManag.resx">
+      <DependentUpon>WZPriceManag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZSupply.resx">
+      <DependentUpon>WZSupply.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WZWareManag.resx">
+      <DependentUpon>WZWareManag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

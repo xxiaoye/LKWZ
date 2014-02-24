@@ -1,0 +1,14 @@
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\ResolveAssemblyReference.cache
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YtMain.CHMain.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YTMain.contrl.Form1.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YTMain.contrl.MenuTree.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YTMain.Index.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YtMain.LogLook.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YtMain.Main.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YTMain.Properties.Resources.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YtMain.SuoForm.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YTMain.SysMain.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YTMain.tool.AlertForm.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YTMain.tool.SetForm.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.YtMain.UMain.resources
+E:\叶翔斌\项目\1209\LK-WZ-SAAS(12-9-Wang)\LK-WZ-SAAS\LIB\YTMain_Source\obj\Debug\YTMain.csproj.GenerateResource.Cache

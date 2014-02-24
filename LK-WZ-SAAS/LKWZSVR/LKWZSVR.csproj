@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{80FBBC42-17AA-4E8D-9308-CAA7772F145B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LKWZSVR</RootNamespace>
+    <AssemblyName>LKWZSVR</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Web\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="RepSevr, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\RepSevr.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="YiTian, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YiTian.dll</HintPath>
+    </Reference>
+    <Reference Include="YtService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LIB\YtService.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="his\sys\FPop.cs" />
+    <Compile Include="his\sys\GetHisParam.cs" />
+    <Compile Include="his\sys\MenuSave.cs" />
+    <Compile Include="his\sys\OpTsDeposit.cs" />
+    <Compile Include="his\sys\SaveCountKind.cs" />
+    <Compile Include="his\sys\SaveGhDw.cs" />
+    <Compile Include="his\sys\SaveGroup.cs" />
+    <Compile Include="his\sys\SaveHisParam.cs" />
+    <Compile Include="his\sys\SaveInOut.cs" />
+    <Compile Include="his\sys\SaveSysValue.cs" />
+    <Compile Include="his\sys\SaveUserRole.cs" />
+    <Compile Include="his\sys\SaveXmInfo.cs" />
+    <Compile Include="his\sys\SaveYaoPingDict.cs" />
+    <Compile Include="his\sys\SysUserSet.cs" />
+    <Compile Include="his\sys\yljgWin.cs" />
+    <Compile Include="his\Util.cs" />
+    <Compile Include="his\WZPriceManag\WZPrice.cs" />
+    <Compile Include="his\WZUnitManag\WZUnit.cs" />
+    <Compile Include="his\WZWareManag\SetWZManagKind.cs" />
+    <Compile Include="his\WZWareManag\WZWare.cs" />
+    <Compile Include="lkwz\BusinessManag\WZPanDianSvr.cs" />
+    <Compile Include="lkwz\BusinessManag\WZTiaoJiaSvr.cs" />
+    <Compile Include="lkwz\BusinessManag\WZUseRecSvr.cs" />
+    <Compile Include="lkwz\JiChuDict\WZDictDetailSvr.cs" />
+    <Compile Include="lkwz\JiChuDict\WZDictSvr.cs" />
+    <Compile Include="lkwz\JiChuDict\WZKind.cs" />
+    <Compile Include="lkwz\JiChuDict\WZSupplySvr.cs" />
+    <Compile Include="lkwz\StatQuery\WZStockAlarmSvr.cs" />
+    <Compile Include="lkwz\WZDiaoBo\SaveDiaoBo.cs" />
+    <Compile Include="lkwz\WZIn\WZInDan.cs" />
+    <Compile Include="lkwz\WZOut\WZOutDan.cs" />
+    <Compile Include="lkwz\WZPlan\WZPlanDan.cs" />
+    <Compile Include="lkwz\WZQuit\SaveQuit.cs" />
+    <Compile Include="lkwz\WZShenLing\SaveShenLing.cs" />
+    <Compile Include="Login.cs">
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="conxml\chaoge.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="conxml\LKWZConfig.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="conxml\OptConfig.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="conxml\Optconfig0.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

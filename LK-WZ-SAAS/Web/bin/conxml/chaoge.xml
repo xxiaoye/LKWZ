@@ -1,0 +1,962 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<opts>
+  <!--公用-->
+  <Opt id="PlanMainDaYinQuery">
+    <sql>
+      <![CDATA[
+  select CHOSNAME,USERNAME,SHUSERNAME,SHINUSERNAME,PLANDATE,RECDATE,SHDATE,SHINDATE,SHOUTDATE,TOTALMONEY,LSTOTALMONEY,SHOUTUSERNAME,lkwz.wzplanmain.MEMO from lkwz.wzplanmain,his.sysdicthospital where PLANID=? and lkwz.wzplanmain.CHOSCODE=his.sysdicthospital.CHOSCODE
+      ]]>
+    </sql>
+  </Opt>
+  <Opt id="InMainDaYinQuery">
+    <sql>
+      <![CDATA[
+  select CHOSNAME,USERNAME,SHUSERNAME,SHINUSERNAME,INDATE,RECDATE,SHDATE,SHINDATE,RECIPECODE,TOTALMONEY,LSTOTALMONEY,MEMO,SUPPLYNAME,IOID,WARECODE from lkwz.wzinmain,his.sysdicthospital where INID=? and lkwz.wzinmain.CHOSCODE=his.sysdicthospital.CHOSCODE
+      ]]>
+    </sql>
+  </Opt>
+  <Opt id="OutMainDaYinQuery">
+    <sql>
+      <![CDATA[
+  select CHOSNAME,USERNAME,SHUSERNAME,SHOUTUSERNAME,OUTDATE,RECDATE,SHDATE,SHOUTDATE,RECIPECODE,TOTALMONEY,LSTOTALMONEY,LKWZ.wzoutmain.MEMO from lkwz.wzoutmain,his.sysdicthospital where OUTID=? and lkwz.wzoutmain.CHOSCODE=his.sysdicthospital.CHOSCODE
+      ]]>
+    </sql>
+  </Opt>
+  <!-- 退回管理-->
+  <Opt id="QuitMixiBishu">
+    <sql>
+      <![CDATA[
+        select count(*) as mxbs from LKWZ.WZOUTDETAIL where OUTID=? and cHosCode=?
+      ]]>
+    </sql>
+  </Opt>
+
+  <Opt id="QuitFindMyInOutKind">
+    <sql>
+      <![CDATA[
+      select IOID,IONAME,USEST,USEND,USERD,OPFLAG,RECIPECODE,RECIPEYEAR,RECIPEMONTH,RECIPELENGTH from LKWZ.DICTWZINOUT where OPFlag=4 and IOFlag=1 and IfUse=1 and CHOSCODE=?
+    ]]>
+    </sql>
+  </Opt>
+
+  <Opt id="QuitFindSysValue">
+    <sql>
+      select * from his.系统参数  where ID=2102  and CHOSCODE=?
+    </sql>
+  </Opt>
+  <Opt id="QuitFindOutMainList">
+    <sql>
+      <![CDATA[
+      select OUTID,IOID,RECIPECODE,WARECODE,TARGETWARECODE,TOTALMONEY,LSTOTALMONEY,OUTDATE,STATUS,MEMO,OPFLAG,USERID,RECDATE,SHDATE,SHUSERID,SHUSERNAME,SHOUTDATE,SHOUTUSERID,SHOUTUSERNAME,CHOSCODE,PLANNO,INID from LKWZ.WZOUTMAIN where OPFLAG=4 and OUTDATE>?  [Condition] and OUTDATE < ?  and  STATUS=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="QuitFindOutDetailList">
+    <sql>
+      <![CDATA[
+      select DETAILNO,OUTID,WZID,NUM,UNITCODE,PRICE,MONEY,INPRICE,INMONEY,MEMO,TXM,CHOSCODE,STOCKFLOWNO,PH,PZWH,SUPPLYID,SUPPLYNAME,PRODUCTDATE,VALIDDATE,WSXKZH from LKWZ.WZOUTDETAIL where OUTID=?
+    ]]>
+    </sql>
+  </Opt>
+
+
+
+  <!-- 申领管理-->
+  <Opt id="SlMixiBishu">
+    <sql>
+      <![CDATA[
+        select count(*) as mxbs from LKWZ.WZPLANDETAIL where PLANID=? and cHosCode=?
+      ]]>
+    </sql>
+  </Opt>
+  
+  <Opt id="SlFindPlanMainList">
+    <sql>
+      <![CDATA[
+      select * from LKWZ.WZPLANMAIN where IFPLAN=0 and  PLANDATE>?  [Condition] and PLANDATE < ?  and  STATUS=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="SlFindPlanDetailList">
+    <sql>
+      <![CDATA[
+      select * from LKWZ.WZPLANDETAIL where PLANID=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="SlSaveWzPlanMainInfo" key="PLANID" table="LKWZ.WZPLANMAIN">
+    <Pa name="WARECODE"/>
+    <Pa name="TARGETWARECODE"/>
+    <Pa name="TOTALMONEY"/>
+    <Pa name="LSTOTALMONEY"/>
+    <Pa name="PLANDATE"/>
+    <Pa name="STATUS"/>
+    <Pa name="IFPLAN"/>
+    <Pa name="MEMO"/>
+    <Pa name="USERID"/>
+    <Pa name="USERNAME"/>
+    <Pa name="RECDATE"/>
+    <Pa name="CHOSCODE"/>
+    <Pa name="PLANID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="SlSaveWzPlanDetailInfo" key="PLANID,ROWNO" table="LKWZ.WZPLANDETAIL">
+    <Pa name="WZID"/>
+    <Pa name="UNITCODE"/>
+    <Pa name="NUM"/>
+    <Pa name="PRICE"/>
+    <Pa name="MONEY"/>
+    <Pa name="LSPRICE"/>
+    <Pa name="LSMONEY"/>
+    <Pa name="SCS"/>
+    <Pa name="GYS"/>
+    <Pa name="MEMO"/>
+    <Pa name="TXM"/>
+    <Pa name="CHOSCODE"/>
+    <Pa name="STOCKFLOWNO"/>
+    <Pa name="ROWNO" insert="true" update="false"/>
+    <Pa name="PLANID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="SlUpdateShStatus" key="PLANID" table="LKWZ.WZPLANMAIN">
+    <Pa name="STATUS"/>
+    <Pa name="SHDATE"/>
+    <Pa name="SHUSERID"/>
+    <Pa name="SHUSERNAME"/>
+    <Pa name="PLANID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="SlUpdateInStatus" key="PLANID" table="LKWZ.WZPLANMAIN">
+    <Pa name="STATUS"/>
+    <Pa name="SHINDATE"/>
+    <Pa name="SHINUSERID"/>
+    <Pa name="SHINUSERNAME"/>
+    <Pa name="PLANID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="SlUpdateOutStatus" key="PLANID" table="LKWZ.WZPLANMAIN">
+    <Pa name="STATUS"/>
+    <Pa name="SHOUTDATE"/>
+    <Pa name="SHOUTUSERID"/>
+    <Pa name="SHOUTUSERNAME"/>
+    <Pa name="PLANID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="SlSaveWZInMainInfo" key="INID" table="LKWZ.WZINMAIN">
+    <Pa name="INID" update="false"/>
+    <Pa name="IOID"/>
+    <Pa name="WARECODE"/>
+    <Pa name="RECIPECODE"/>
+    <Pa name="TOTALMONEY"/>
+    <Pa name="LSTOTALMONEY"/>
+    <Pa name="INDATE"/>
+    <Pa name="STATUS"/>
+    <Pa name="OPFLAG"/>
+    <Pa name="MEMO"/>
+    <Pa name="USERID"/>
+    <Pa name="USERNAME"/>
+    <Pa name="RECDATE"/>
+    <Pa name="SHDH"/>
+    <Pa name="INVOICECODE"/>
+    <Pa name="INVOICEDATE"/>
+    <Pa name="SUPPLYNAME"/>
+    <Pa name="SUPPLYID"/>
+    <Pa name="SHDATE"/>
+    <Pa name="SHUSERID"/>
+    <Pa name="SHUSERNAME"/>
+    <Pa name="SHINDATE"/>
+    <Pa name="SHINUSERID"/>
+    <Pa name="SHINUSERNAME"/>
+    <Pa name="PLANNO"/>
+    <Pa name="CHOSCODE"/>
+  </Opt>
+
+  <Opt id="SlSaveWzOutMainInfo" key="OUTID" table="LKWZ.WZOUTMAIN">
+    <Pa name="IOID"/>
+    <Pa name="RECIPECODE"/>
+    <Pa name="WARECODE"/>
+    <Pa name="TARGETWARECODE"/>
+    <Pa name="TOTALMONEY" />
+    <Pa name="LSTOTALMONEY" />
+    <Pa name="OUTDATE" />
+    <Pa name="STATUS" />
+    <Pa name="MEMO" />
+    <Pa name="OPFLAG" />
+    <Pa name="USERID" />
+    <Pa name="USERNAME" />
+    <Pa name="RECDATE" />
+    <Pa name="CHOSCODE" />
+    <Pa name="SHDATE" />
+    <Pa name="SHUSERID" />
+    <Pa name="SHUSERNAME" />
+    <Pa name="SHOUTDATE" />
+    <Pa name="SHOUTUSERID" />
+    <Pa name="SHOUTUSERNAME" />
+    <Pa name="PLANNO" />
+    <Pa name="INID"/>
+    <Pa name="OUTID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="SlSaveWzOutDetailInfo" key="DETAILNO,OUTID" table="LKWZ.WZOUTDETAIL">
+    <Pa name="WZID"/>
+    <Pa name="NUM"/>
+    <Pa name="UNITCODE"/>
+    <Pa name="PRICE"/>
+    <Pa name="MONEY"/>
+    <Pa name="INPRICE"/>
+    <Pa name="INMONEY"/>
+    <Pa name="MEMO"/>
+    <Pa name="TXM"/>
+    <Pa name="CHOSCODE"/>
+    <Pa name="STOCKFLOWNO"/>
+    <Pa name="PH"/>
+    <Pa name="PZWH"/>
+    <Pa name="SUPPLYID"/>
+    <Pa name="SUPPLYNAME"/>
+    <Pa name="PRODUCTDATE"/>
+    <Pa name="VALIDDATE"/>
+    <Pa name="WSXKZH"/>
+    <Pa name="DETAILNO" insert="true" update="false"/>
+    <Pa name="OUTID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="SlFindPlanDetailList">
+    <sql>
+      <![CDATA[
+      select * from LKWZ.WZPLANDETAIL where PLANID=?
+    ]]>
+    </sql>
+  </Opt>
+
+
+
+
+  <!--<Opt id="SlEditFindStockDetailById">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 入库单价,LSPRICE as 出库单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where FLOWNO=?
+    ]]>
+    </sql>
+  </Opt>-->
+  <Opt id="SlEditFindStockDetailById">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 采购单价,LSPRICE as 零售单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where FLOWNO=? and (NUM-OUTNUM)>0 order by FLOWNO asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="SlEditFindStockDetailOrderByP">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 采购单价,LSPRICE as 零售单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0 order by 生产日期 asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="SlEditFindStockDetailOrderByI">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 采购单价,LSPRICE as 零售单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0 order by 入库日期 asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="SlEditFindStockDetailOrderByG">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 采购单价,LSPRICE as 零售单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号,(VALIDDATE-PRODUCTDATE)*24*3600 as 过期时间 from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0 order by 过期时间 asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="SlEditFindStockDetailOrderByV">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 采购单价,LSPRICE as 零售单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号  from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0 order by 有效期 asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="SlEditFindStockDetail">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 采购单价,LSPRICE as 零售单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="SlEditFindPlanDetailList">
+    <sql>
+      <![CDATA[
+      select a.ROWNO,a.PLANID,a.WZID,b.WZNAME,a.NUM,a.UNITCODE,b.LSUNITCODE as DanWeiC1,b.UNITCODE as DanWeiC2,a.PRICE,a.MONEY,a.LSPRICE,a.LSMONEY,a.SCS,a.GYS,a.MEMO,a.TXM,a.CHOSCODE,a.STOCKFLOWNO from LKWZ.WZPLANDETAIL a,LKWZ.DICTWZ b where a.PLANID=? and a.WZID=b.WZID and a.CHOSCODE=b.CHOSCODE order by ROWNO asc
+    ]]>
+    </sql>
+  </Opt>
+  <!--<Opt id="SlditFindPlanDetailList">
+    <sql>
+      <![CDATA[
+      select a.DETAILNO,a.OUTID,a.WZID,b.WZNAME,a.NUM,a.UNITCODE,b.LSUNITCODE as DanWeiC1,b.UNITCODE as DanWeiC2,a.PRICE,a.MONEY,a.INPRICE,a.INMONEY,a.MEMO,a.TXM,a.CHOSCODE,a.STOCKFLOWNO,a.PH,a.PZWH,a.SUPPLYID,a.SUPPLYNAME,a.PRODUCTDATE,a.VALIDDATE,a.WSXKZH from LKWZ.WZOUTDETAIL a,LKWZ.DICTWZ b where a.OUTID=? and a.WZID=b.WZID
+    ]]>
+    </sql>
+  </Opt>-->
+  
+  
+  <!-- 调拨管理-->
+  <Opt id="DbMixiBishu">
+    <sql>
+      <![CDATA[
+        select count(*) as mxbs from LKWZ.WZOUTDETAIL where OUTID=? and cHosCode=?
+      ]]>
+    </sql>
+  </Opt>
+  
+  <Opt id="DbFindOutMainList">
+    <sql>
+      <![CDATA[
+      select OUTID,IOID,RECIPECODE,WARECODE,TARGETWARECODE,TOTALMONEY,LSTOTALMONEY,OUTDATE,STATUS,MEMO,OPFLAG,USERID,RECDATE,SHDATE,SHUSERID,SHUSERNAME,SHOUTDATE,SHOUTUSERID,SHOUTUSERNAME,CHOSCODE,PLANNO,INID from LKWZ.WZOUTMAIN where OPFLAG=1  and OUTDATE>?  [Condition] and OUTDATE < ?  and  STATUS=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbFindInMainList">
+    <sql>
+      <![CDATA[
+      select INID,IOID,RECIPECODE, WARECODE,SHDH,SUPPLYID,SUPPLYNAME,TOTALMONEY,LSTOTALMONEY,INVOICECODE,INVOICEDATE,INDATE,STATUS,MEMO,OPFLAG,USERID,USERNAME,RECDATE,SHDATE,SHUSERID,SHUSERNAME,SHINDATE,SHINUSERID,SHINUSERNAME,CHOSCODE,PLANNO from LKWZ.WZINMAIN where WARECODE=? and INDATE>?  [Condition] and INDATE < ?  and  STATUS=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbFindOutDetailList">
+    <sql>
+      <![CDATA[
+      select DETAILNO,OUTID,WZID,NUM,UNITCODE,PRICE,MONEY,INPRICE,INMONEY,MEMO,TXM,CHOSCODE,STOCKFLOWNO,PH,PZWH,SUPPLYID,SUPPLYNAME,PRODUCTDATE,VALIDDATE,WSXKZH from LKWZ.WZOUTDETAIL where OUTID=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbFindMyWare">
+    <sql>
+      <![CDATA[
+      select WARENAME,WARECODE,IFSTWARE,IFNDWARE,IFRDWARE,IFUSE from LKWZ.DICTWZWARE where CHOSCODE=?  and (WARENAME like ? or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?))
+    ]]>
+    </sql>
+  </Opt>
+  
+  
+  
+  
+  
+  <Opt id="DbEditFindWare">
+    <sql>
+      <![CDATA[
+      select WARENAME,WARECODE,IFSTWARE,IFNDWARE,IFRDWARE,IFUSE,OUTORDER from LKWZ.DICTWZWARE where CHOSCODE=? and (WARECODE!=?) and (IFSTWARE+? !=1) and (IFNDWARE+? !=1) and (IFRDWARE+? !=1)  and (WARENAME like ? or WARECODE like ? or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?))
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindWZ">
+    <sql>
+      <![CDATA[
+       select  b.WZNAME as 物资,b.WZID as 物资ID,b.GG as 规格,a.NUM as 库存余量,U1.DICDESC as 单位2,U2.DICDESC as 单位1,b.PYCODE as 拼音码,b.WBCODE as 五笔码,b.SHORTNAME as 简称,b.ALIASNAME as 别名,a.CHOSCODE as 医疗机构编码,a.WARECODE as 库房编码,b.Unitcode as 单位C2,b.lsunitcode as 单位C1  from LKWZ.WZSTOCK  a , LKWZ.DICTWZ  b,HIS.字典表 U1 ,HIS.字典表 U2
+       where a.CHOSCODE=? and a.CHOSCODE=b.CHOSCODE and  a.WARECODE=? and (a.NUM>0 or ?=1)  and a.WZID=b.WZID  and (b.WZNAME like ? or b.WZID like ? or upper(b.PYCODE) like upper(?) or b.WBCODE like ? or b.ALIASNAME like ? or b.SHORTNAME like ?)
+       and (U1.DICGRPID=301 and U1.DICID=b.UNITCODE ) and (U2.DICGRPID=301 and U2.DICID=b.LSUNITCODE )
+
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindWzUnitList">
+    <sql>
+      <![CDATA[
+      select DICID,DICDESC from HIS.字典表 where  DICGRPID='301'
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindStockDetail">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 入库单价,LSPRICE as 出库单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindInOutKind">
+    <sql>
+      <![CDATA[
+      select IONAME,IOID,USEST,USEND,USERD,OPFLAG,RECIPECODE,RECIPEYEAR,RECIPEMONTH,RECIPELENGTH from LKWZ.DICTWZINOUT where OPFlag=? and IOFlag=? and IfUse=? and CHOSCODE=? and ( IOID like ? or IONAME like ? or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?))
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindSysValue">
+    <sql>
+      select * from his.系统参数  where ID=?  and CHOSCODE=?
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindOutDetailList1">
+    <sql>
+      <![CDATA[
+      select a.DETAILNO,a.OUTID,a.WZID,b.WZNAME,a.NUM,a.UNITCODE,b.LSUNITCODE as DanWei1,b.UNITCODE as DanWei2,a.PRICE,a.MONEY,a.INPRICE,a.INMONEY,a.MEMO,a.TXM,a.CHOSCODE,a.STOCKFLOWNO,a.PH,a.PZWH,a.SUPPLYID,a.SUPPLYNAME,a.PRODUCTDATE,a.VALIDDATE,a.WSXKZH from LKWZ.WZOUTDETAIL a,LKWZ.DICTWZ b where a.OUTID=? and a.WZID=b.WZID and a.CHOSCODE=b.CHOSCODE
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindOutDetailList">
+    <sql>
+      <![CDATA[
+      select a.DETAILNO,a.OUTID,a.WZID,b.WZNAME,a.NUM,a.UNITCODE,b.LSUNITCODE as DanWeiC1,b.UNITCODE as DanWeiC2,a.PRICE,a.MONEY,a.INPRICE,a.INMONEY,a.MEMO,a.TXM,a.CHOSCODE,a.STOCKFLOWNO,a.PH,a.PZWH,a.SUPPLYID,a.SUPPLYNAME,a.PRODUCTDATE,a.VALIDDATE,a.WSXKZH from LKWZ.WZOUTDETAIL a,LKWZ.DICTWZ b where a.OUTID=? and a.WZID=b.WZID and a.CHOSCODE=b.CHOSCODE
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindStockDetailById">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 入库单价,LSPRICE as 出库单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where FLOWNO=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindStockDetailOrderByP">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 入库单价,LSPRICE as 出库单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0 order by 生产日期 asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindStockDetailOrderByI">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 入库单价,LSPRICE as 出库单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号 from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0 order by 入库日期 asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindStockDetailOrderByG">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 入库单价,LSPRICE as 出库单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号,(VALIDDATE-PRODUCTDATE)*24*3600 as 过期时间 from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0 order by 过期时间 asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindStockDetailOrderByV">
+    <sql>
+      <![CDATA[
+      select FLOWNO as 库存流水,(NUM-OUTNUM) as 余量,NUM as 入库数量,OUTNUM as 已出库数量,STOCKID as 库存ID,CHANGERATE as 换算系数,PRICE as 入库单价,LSPRICE as 出库单价,TXM as 条形码, CHOSCODE,MEMO as 备注,PH as 生产批号,PZWH as 批准文号,SUPPLYID as 生产厂家ID,SUPPLYNAME as 生产厂家名称,SUPPLYID2 as 供货商ID,SUPPLYNAME2 as 供货商名称,
+      PRODUCTDATE AS 生产日期,VALIDDATE AS 有效期,INDATE as 入库日期,WSXKZH as 卫生许可证号,FLOWNO as 库存流水号  from LKWZ.WZSTOCKDETAIL where WARECODE=? and WZID=? and (NUM-OUTNUM)>0 order by 有效期 asc
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindWareById">
+    <sql>
+      <![CDATA[
+      select WARENAME,WARECODE,IFSTWARE,IFNDWARE,IFRDWARE,IFUSE,OUTORDER from LKWZ.DICTWZWARE where  WARECODE=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbEditFindInOutKindById">
+    <sql>
+      <![CDATA[
+      select IONAME,IOID,USEST,USEND,USERD,OPFLAG,RECIPECODE,RECIPEYEAR,RECIPEMONTH,RECIPELENGTH from LKWZ.DICTWZINOUT where IOID=?
+    ]]>
+    </sql>
+  </Opt>
+
+  
+  
+  
+  
+  
+  <Opt id="DbFindYeWuWare">
+    <sql>
+      <![CDATA[
+      select WARENAME,WARECODE,IFSTWARE,IFNDWARE,IFRDWARE,IFUSE from LKWZ.DICTWZWARE where CHOSCODE=? 
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbFindMyInOutKind">
+    <sql>
+      <![CDATA[
+      select IOID,IONAME,USEST,USEND,USERD,OPFLAG,RECIPECODE,RECIPEYEAR,RECIPEMONTH,RECIPELENGTH from LKWZ.DICTWZINOUT where OPFlag=1 and IOFlag=1 and IfUse=1 and CHOSCODE=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbFindMyWz">
+    <sql>
+      <![CDATA[
+      select MYSTOCK.WZID,WZNAME,PYCODE,WBCODE,SHORTNAME,SHORTCODE,ALIASNAME,ALIASCODE,KINDCODE,COUNTCODE,GG,UNITCODE,PRICE,LKWZ.DICTWZ.LSUNITCODE,CHANGERATE,LOWNUM,HIGHNUM,VALIDE,RATE,IFNY,TXM,IFUSE,MEMO,MYSTOCK.NUM from (select WZID,LSUNITCODE,NUM from LKWZ.WZSTOCK where WARECODE=? ) MYSTOCK , LKWZ.DICTWZ  where LKWZ.DICTWZ.WZID=MYSTOCK.WZID
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbFindWzUnit">
+    <sql>
+      <![CDATA[
+      select DICID,DICDESC from HIS.字典表 where  DICGRPID='301'
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbFindStockDetail">
+    <sql>
+      <![CDATA[
+      select * from LKWZ.WZSTOCKDETAIL where WARECODE=?
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbSaveWzOutMainInfo" key="OUTID" table="LKWZ.WZOUTMAIN">
+    <Pa name="IOID"/>
+    <Pa name="RECIPECODE"/>
+    <Pa name="WARECODE"/>
+    <Pa name="TARGETWARECODE"/>
+    <Pa name="TOTALMONEY" />
+    <Pa name="LSTOTALMONEY" />
+    <Pa name="OUTDATE" />
+    <Pa name="STATUS" />
+    <Pa name="MEMO" />
+    <Pa name="OPFLAG" />
+    <Pa name="USERID" />
+    <Pa name="USERNAME" />
+    <Pa name="RECDATE" />
+    <Pa name="CHOSCODE" />
+    <Pa name="OUTID" insert="true" update="false"/>
+  </Opt>
+  <Opt id="DbShOutMainInfo" key="OUTID" table="LKWZ.WZOUTMAIN">
+    <Pa name="STATUS" />
+    <Pa name="SHDATE" />
+    <Pa name="SHUSERID" />
+    <Pa name="SHUSERNAME" />
+    <Pa name="OUTID" insert="true" update="false"/>
+  </Opt>
+  <Opt id="DbQrOutMainInfo" key="OUTID" table="LKWZ.WZOUTMAIN">
+    <Pa name="STATUS" />
+    <Pa name="SHOUTDATE" />
+    <Pa name="SHOUTUSERID" />
+    <Pa name="SHOUTUSERNAME" />
+    <Pa name="OUTID" insert="true" update="false"/>
+  </Opt>
+  <Opt id="DbSaveWzOutDetailInfo" key="DETAILNO,OUTID" table="LKWZ.WZOUTDETAIL">
+    <Pa name="WZID"/>
+    <Pa name="NUM"/>
+    <Pa name="UNITCODE"/>
+    <Pa name="PRICE"/>
+    <Pa name="MONEY"/>
+    <Pa name="INPRICE"/>
+    <Pa name="INMONEY"/>
+    <Pa name="MEMO"/>
+    <Pa name="TXM"/>
+    <Pa name="CHOSCODE"/>
+    <Pa name="STOCKFLOWNO"/>
+    <Pa name="PH"/>
+    <Pa name="PZWH"/>
+    <Pa name="SUPPLYID"/>
+    <Pa name="SUPPLYNAME"/>
+    <Pa name="PRODUCTDATE"/>
+    <Pa name="VALIDDATE"/>
+    <Pa name="WSXKZH"/>
+    <Pa name="DETAILNO" insert="true" update="false"/>
+    <Pa name="OUTID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="DbGetOutRecipeNo">
+    <sql>
+      select count(RECIPECODE) from LKWZ.WZOUTMAIN where RECIPECODE like ?
+    </sql>
+  </Opt>
+
+  <Opt id="DbGetInRecipeNo">
+    <sql>
+      select count(RECIPECODE) from LKWZ.WZINMAIN where RECIPECODE like ?
+    </sql>
+  </Opt>
+
+  <Opt id="DbDelWzOutDetailInfo" sucMsg="删除成功！" >
+    <sql>
+      DELETE FROM LKWZ.WZOUTDETAIL where DETAILNO=?
+    </sql>
+  </Opt>
+
+  <Opt id="DbFindSysValue">
+    <sql>
+      select * from his.系统参数  where ID=2100  and CHOSCODE=?
+    </sql>
+  </Opt>
+
+  <Opt id="DbUpdateStockNum">
+    <sql>
+      update LKWZ.WZSTOCK set NUM=NUM - ? where STOCKID=?
+    </sql>
+  </Opt>
+
+  <Opt id="DbUpdateStockNum">
+    <sql>
+      update LKWZ.WZSTOCKDETAIL set NUM=NUM-? where FLOWNO=?
+    </sql>
+  </Opt>
+  <Opt id="DbSaveWZInMainInfo" key="INID" table="LKWZ.WZINMAIN">
+    <Pa name="INID" update="false"/>
+    <Pa name="IOID"/>
+    <Pa name="WARECODE"/>
+    <Pa name="RECIPECODE"/>
+    <Pa name="TOTALMONEY"/>
+    <Pa name="LSTOTALMONEY"/>
+    <Pa name="INDATE"/>
+    <Pa name="STATUS"/>
+    <Pa name="OPFLAG"/>
+    <Pa name="MEMO"/>
+    <Pa name="USERID"/>
+    <Pa name="USERNAME"/>
+    <Pa name="RECDATE"/>
+    <Pa name="SHDH"/>
+    <Pa name="INVOICECODE"/>
+    <Pa name="INVOICEDATE"/>
+    <Pa name="SUPPLYNAME"/>
+    <Pa name="SUPPLYID"/>
+    <Pa name="SHDATE"/>
+    <Pa name="SHUSERID"/>
+    <Pa name="SHUSERNAME"/>
+    <Pa name="SHINDATE"/>
+    <Pa name="SHINUSERID"/>
+    <Pa name="SHINUSERNAME"/>
+    <Pa name="PLANNO"/>
+    <Pa name="CHOSCODE"/>
+  </Opt>
+
+  <Opt id="DbSaveWZInDetailInfo" key="DETAILNO" table="LKWZ.WZINDETAIL">
+    <Pa name="DETAILNO" update="false"/>
+    <Pa name="INID" />
+    <Pa name="WZID"/>
+    <Pa name="UNITCODE"/>
+    <Pa name="NUM"/>
+    <Pa name="PRICE"/>
+    <Pa name="MONEY"/>
+    <Pa name="LSPRICE"/>
+    <Pa name="LSMONEY"/>
+    <Pa name="PH"/>
+    <Pa name="PZWH"/>
+    <Pa name="MEMO"/>
+    <Pa name="TXM"/>
+    <Pa name="SUPPLYNAME"/>
+    <Pa name="SUPPLYID"/>
+    <Pa name="PRODUCTDATE"/>
+    <Pa name="VALIDDATE"/>
+    <Pa name="WSXKZH"/>
+    <Pa name="CHOSCODE"/>
+    <Pa name="STOCKFLOWNO"/>
+  </Opt>
+
+  <Opt id="DbSaveWZStockDetailInfo" key="FLOWNO" table="LKWZ.WZSTOCKDETAIL">
+    <Pa name="FLOWNO" update="false"/>
+    <Pa name="INID" />
+    <Pa name="WZID"/>
+    <Pa name="WARECODE"/>
+    <Pa name="NUM"/>
+    <Pa name="PRICE"/>
+    <Pa name="STOCKID"/>
+    <Pa name="LSPRICE"/>
+    <Pa name="BEFORENUM"/>
+    <Pa name="OUTNUM"/>
+    <Pa name="CHANGERATE"/>
+    <Pa name="LSUNITCODE"/>
+    <Pa name="PH"/>
+    <Pa name="PZWH"/>
+    <Pa name="MEMO"/>
+    <Pa name="TXM"/>
+    <Pa name="SUPPLYNAME"/>
+    <Pa name="SUPPLYID"/>
+    <Pa name="PRODUCTDATE"/>
+    <Pa name="VALIDDATE"/>
+    <Pa name="WSXKZH"/>
+    <Pa name="RECIPECODE"/>
+    <Pa name="SHDH"/>
+    <Pa name="SUPPLYID2"/>
+    <Pa name="SUPPLYNAME2"/>
+    <Pa name="CHOSCODE"/>
+    <Pa name="INDATE"/>
+  </Opt>
+  <Opt id="DbSaveWZStockInfo" key="STOCKID" table="LKWZ.WZSTOCK">
+    <Pa name="STOCKID" update="false"/>
+    <Pa name="WARECODE" />
+    <Pa name="WZID" />
+    <Pa name="NUM" />
+    <Pa name="LSUNITCODE" />
+    <Pa name="CHOSCODE" />
+  </Opt>
+
+  <Opt id="DbGetWzById">
+    <sql>
+      select * from LKWZ.DICTWZ where WZID=?
+    </sql>
+  </Opt>
+
+  <Opt id="DbGetSdById">
+    <sql>
+      select * from LKWZ.STOCKDETAIL where FLOWNO=?
+    </sql>
+  </Opt>
+
+
+
+  <!-- 系统参数管理-->
+  <Opt id="FindOutList">
+    <sql>
+      select IONAME,IOID,PYCODE,WBCODE,IFUSE,RECIPECODE,RECIPELENGTH,RECIPEYEAR,RECIPEMONTH,MEMO,IOFLAG,USEST,USEND,USERD,OPFLAG,IFDEFAULT,USERID,USERNAME,RECDATE,CHOSCODE from LKWZ.DICTWZINOUT where IOFLAG=1 and CHOSCODE=? [Condition] and  TO_NUMBER(?)*(IOID -  TO_NUMBER(?))=0  and ( IONAME like ? or IOID like ? )order by IOID desc
+    </sql>
+  </Opt>
+  <Opt id="FindSysValue">
+    <sql>
+      select * from his.系统参数  where ID>=2100  and CHOSCODE=?  order by ID
+    </sql>
+  </Opt>
+  <Opt id="SaveSysValue" key="ID,CHOSCODE" table="his.系统参数">
+    <Pa name="SYSNAME"/>
+    <Pa name="SYSVALUE"/>
+    <Pa name="SYSEXPLAIN"/>
+    <Pa name="ID" insert="true" update="false"/>
+    <Pa name="CHOSCODE" insert="true" update="false"/>
+  </Opt>
+  <Opt id="InsertSysValue" >
+    <sql>
+      insert into his.系统参数 values ( ?,?,?,?,?);
+      insert into his.系统参数 values ( ?,?,?,?,?);
+      insert into his.系统参数 values ( ?,?,?,?,?);
+      insert into his.系统参数 values ( ?,?,?,?,?);
+      insert into his.系统参数 values ( ?,?,?,?,?)
+    </sql>
+  </Opt>
+  <Opt id="UpdateSysValue" >
+    <sql>
+      <![CDATA[
+      Update  his.系统参数 set SYSVALUE=? where ID=2100 and CHOSCODE=? ;
+      Update  his.系统参数 set SYSVALUE=? where ID=2101 and CHOSCODE=?;
+      Update  his.系统参数 set SYSVALUE=? where ID=2102 and CHOSCODE=?;
+      Update  his.系统参数 set SYSVALUE=? where ID=2103 and CHOSCODE=?;
+      Update  his.系统参数 set SYSVALUE=? where ID=2104 and CHOSCODE=?
+      ]]>
+    </sql>
+  </Opt>
+  <!-- 出入库字典管理-->
+  <Opt id="FindInOutList">
+    <sql>
+      select IOID,IONAME,PYCODE,WBCODE,IFUSE,RECIPECODE,RECIPELENGTH,RECIPEYEAR,RECIPEMONTH,MEMO,IOFLAG,USEST,USEND,USERD,OPFLAG,IFDEFAULT,USERID,USERNAME,RECDATE,CHOSCODE from LKWZ.DICTWZINOUT where CHOSCODE=? [Condition] order by IOID desc
+    </sql>
+  </Opt>
+  <Opt id="FindInOutCcode0">
+    <sql>select * from LKWZ.DICTWZINOUT WHERE CHOSCODE='0'</sql>
+  </Opt>
+  <Opt id="InOutIsSy">
+    <sql>select count(*) as num from((select a.IOID from LKWZ.WZInMain a where a.IOID = ?)  UNION All (select b.IOID from LKWZ.WZOutMain b where b.IOID = ?))</sql>
+    <Pa name="IOID"/>
+    <Pa name="IOID"/>
+  </Opt>
+  <Opt id="DelInOutInfo" sucMsg="成功出入库类别信息！" >
+    <sql>DELETE FROM LKWZ.DICTWZINOUT WHERE IOID= ?</sql>
+    <Pa name="IOID"/>
+  </Opt>
+  <Opt id="CheckInOutIsNull" sucMsg="" >
+    <sql>select count(*) as num from LKWZ.DICTWZINOUT where CHOSCODE = ?</sql>
+    <Pa name="CHOSCODE"/>
+  </Opt>
+  <Opt id="SaveInOutInfo" key="IOID" table="LKWZ.DICTWZINOUT">
+    <Pa name="IONAME"/>
+    <Pa name="PYCODE"/>
+    <Pa name="WBCODE"/>
+    <Pa name="IFUSE"/>
+    <Pa name="RECIPECODE" />
+    <Pa name="RECIPELENGTH" />
+    <Pa name="RECIPEYEAR" />
+    <Pa name="RECIPEMONTH" />
+    <Pa name="MEMO" />
+    <Pa name="IOFLAG" />
+    <Pa name="USEST" />
+    <Pa name="USEND" />
+    <Pa name="USERD" />
+    <Pa name="OPFLAG" />
+    <Pa name="IFDEFAULT" />
+    <Pa name="USERID" />
+    <Pa name="USERNAME" />
+    <Pa name="RECDATE" />
+    <Pa name="CHOSCODE" />
+    <Pa name="IOID" insert="true" update="false"/>
+  </Opt>
+
+  <Opt id="SetInOutUsed">
+    <sql>
+      UPDATE LKWZ.DICTWZINOUT SET  IFUSE=1 where IOID=?
+    </sql>
+    <Pa name="IOID"/>
+  </Opt>
+  <Opt id="SetInOutUnUsed">
+    <sql>
+      UPDATE LKWZ.DICTWZINOUT SET  IFUSE=0 where IOID=?
+    </sql>
+    <Pa name="IOID"/>
+  </Opt>
+
+  <!--统计类别管理-->
+  <Opt id="FindCountKindInfo" sql="select COUNTCODE,COUNTNAME,PYCODE,WBCODE,SUPERCODE,IFEND,IFUSE,MEMO,USERID,USERNAME,RECDATE,CHOSCODE from LKWZ.DICTWZCOUNTKIND where CHOSCODE=? order by COUNTCODE "/>
+  <Opt id="SaveCkInfo"  key="COUNTCODE" table="LKWZ.DICTWZCOUNTKIND">
+    <Pa name="SUPERCODE"/>
+    <Pa name="COUNTNAME"/>
+    <Pa name="PYCODE"/>
+    <Pa name="WBCODE"/>
+    <Pa name="IFEND" />
+    <Pa name="IFUSE" />
+    <Pa name="MEMO"/>
+    <Pa name="USERID"/>
+    <Pa name="USERNAME"/>
+    <Pa name="RECDATE"/>
+    <Pa name="CHOSCODE"/>
+    <Pa name="COUNTCODE" insert="true" update="false"/>
+  </Opt>
+  <Opt id="CkIsSy">
+    <sql>select count(*) as num from LKWZ.DICTWZ where COUNTCODE = ? and CHOSCODE=?</sql>
+    <Pa name="COUNTCODE"/>
+    <Pa name="CHOSCODE"/>
+  </Opt>
+  <Opt id="DelCkInfo" sucMsg="成功删除此统计类别！" >
+    <sql>DELETE FROM LKWZ.DICTWZCOUNTKIND WHERE COUNTCODE= ? </sql>
+    <Pa name="COUNTCODE"/>
+  </Opt>
+  <Opt id="QiYongCkInfo" sucMsg="成功启用此统计类别！" >
+    <sql>DELETE FROM LKWZ.DICTWZCOUNTKIND WHERE COUNTCODE= ? </sql>
+    <Pa name="COUNTCODE"/>
+  </Opt>
+  <Opt id="TingYongCkInfo" sucMsg="成功停用此统计类别！" >
+    <sql>DELETE FROM LKWZ.DICTWZCOUNTKIND WHERE COUNTCODE= ? </sql>
+    <Pa name="COUNTCODE"/>
+  </Opt>
+  <Opt id="GetCk_seq">
+    <sql>
+      select  count(*) as num  from LKWZ.DICTWZCOUNTKIND where SUPERCODE=?
+    </sql>
+    <Pa name="SUPERCODE"/>
+  </Opt>
+  <Opt id="SetSuperCkNotEnd">
+    <sql>
+      UPDATE LKWZ.DICTWZCOUNTKIND SET  IFEND=0 where COUNTCODE=?
+    </sql>
+    <Pa name="COUNTCODE"/>
+  </Opt>
+  <Opt id="SetSuperCkEnd">
+    <sql>
+      UPDATE LKWZ.DICTWZCOUNTKIND SET  IFEND=1 where COUNTCODE=?
+    </sql>
+    <Pa name="COUNTCODE"/>
+  </Opt>
+  <Opt id="SetCkUsed">
+    <sql>
+      UPDATE LKWZ.DICTWZCOUNTKIND SET  IFUSE=1 where COUNTCODE=?
+    </sql>
+    <Pa name="COUNTCODE"/>
+  </Opt>
+  <Opt id="SetCkUnUsed">
+    <sql>
+      UPDATE LKWZ.DICTWZCOUNTKIND SET  IFUSE=0 where COUNTCODE=?
+    </sql>
+    <Pa name="COUNTCODE"/>
+  </Opt>
+  <!--统计查询模块-->
+  <Opt id="DbQueryFindWzOutMainById">
+    <sql>
+      <![CDATA[
+      select a.WARECODE as ChuKuKuFangCode,b.WARENAME as ChuKuKuFangName,a.TARGETWARECODE as MuDiKuFangCode,d.WARENAME as MuDiKuFangName,a.IOID as ChuKuFangShiCode , c.IONAME as ChuKuFangShiName, a.MEMO as BeiZhu,a.LSTOTALMONEY as ChuKuZongJinE,a.TOTALMONEY as RuKuZongJinE,a.RECIPECODE as DanJuHao,a.OUTDATE as outDate  from LKWZ.WZOUTMAIN a,LKWZ.DICTWZWARE b,LKWZ.DICTWZINOUT c,LKWZ.DICTWZWARE d where a.OUTID=? and a.WARECODE=b.WARECODE and a.TARGETWARECODE=d.WARECODE and a.IOID=C.IOID
+    ]]>
+    </sql>
+  </Opt>
+  <Opt id="DbQueryFindWzPlanMainById">
+    <sql>
+      <![CDATA[
+      select WARECODE,TARGETWARECODE,PLANDATE from LKWZ.WZPLANMAIN a where a.PLANID=?
+    ]]>
+    </sql>
+  </Opt>
+
+  <!--物质调拨查询（改）-->
+  <Opt id="Query_DbEditFindOutDetailListaschanger">
+    <sql>
+      <![CDATA[
+    
+       select distinct a.* ,b.TARGETWARECODE,b.USERNAME,b.SHUSERNAME,b.SHOUTUSERNAME,c.WARENAME,c1.WARENAME as TARGETWARENAME,d.WZNAME,zd.DICDESC,sd.SUPPLYID2,sd.SUPPLYNAME2,kd.KINDNAME from LKWZ.WZOUTDETAIL a ,LKWZ.WZOUTMAIN b,LKWZ.DICTWZWARE c, LKWZ.DICTWZ d, HIS.字典表 zd,LKWZ.DICTWZWARE c1,LKWZ.WZSTOCKDETAIL sd,LKWZ.DICTWZKIND kd where  (sd.FLOWNO=a.STOCKFLOWNO) and (d.KINDCODE=kd.KINDCODE and kd.CHOSCODE=a.cHosCode) and (a.cHosCode=?  and b.OUTDATE >= ? and b.OUTDATE <= ? ) and a.CHOSCODE=b.cHosCode and a.CHOSCODE=c.cHosCode and a.CHOSCODE=d.cHosCode and a.CHOSCODE=c1.cHosCode and a.CHOSCODE=sd.cHosCode and a.WZID=d.WZID and a.OUTID=b.OUTID and b.warecode=c.warecode and b.TARGETWARECODE=c1.warecode and b.OPFLAG=1  and (a.UNITCODE=zd.DICID and zd.DICGRPID=301)   [Condition] order by a.OUTID
+      ]]>
+    </sql>
+  </Opt>
+  <!--物质申领计划查询（改）-->
+
+  <Opt id="Query_WZShenLingDetailSearchaschanger">
+    <sql>
+      <![CDATA[
+        select distinct a.*,b.SHUSERNAME,b.SHUSERID,b.SHINUSERNAME,b.SHINUSERID,b.USERID,b.USERNAME,c.WARENAME,c1.WARENAME as TARGETWARENAME ,d.WZNAME,sd.SUPPLYID,sd.SUPPLYNAME,sd.SUPPLYID2,sd.SUPPLYNAME2,kd.KINDNAME,zd.DICDESC as UNITNAME  from LKWZ.WZPLANDETAIL a,LKWZ.WZPLANMAIN b,LKWZ.DICTWZWARE c,LKWZ.DICTWZWARE c1,LKWZ.DICTWZ d,LKWZ.WZSTOCKDETAIL sd,LKWZ.DICTWZKIND kd,HIS.字典表 zd  where (sd.FLOWNO=a.STOCKFLOWNO) and (d.KINDCODE=kd.KINDCODE and kd.CHOSCODE=d.CHOSCODE) and (a.cHosCode=?  and b.PLANDATE >= ? and b.PLANDATE <= ? ) and a.cHosCode=b.cHosCode and a.cHosCode=c.cHosCode and a.cHosCode=d.cHosCode and a.cHosCode=c1.cHosCode and a.cHosCode=sd.cHosCode and a.PLANID=b.PLANID and b.IFPLAN=0 and a.WZID=d.WZID  and b.warecode=c.warecode and b.targetwarecode=c1.warecode and (a.UNITCODE=zd.DICID and zd.DICGRPID=301)  [Condition] order by a.PLANID
+      ]]>
+    </sql>
+  </Opt>
+  <!--物质退回计划查询（改）-->
+
+  <Opt id="Query_WZTuiHuiDetailSearchaschanger">
+    <sql>
+      <![CDATA[
+        select distinct a.* ,b.TARGETWARECODE,b.USERNAME,b.SHUSERNAME,b.SHOUTUSERNAME,c.WARENAME,c1.WARENAME as TARGETWARENAME,d.WZNAME,zd.DICDESC,sd.SUPPLYID2,sd.SUPPLYNAME2,kd.KINDNAME from LKWZ.WZOUTDETAIL a ,LKWZ.WZOUTMAIN b,LKWZ.DICTWZWARE c, LKWZ.DICTWZ d, HIS.字典表 zd,LKWZ.DICTWZWARE c1,LKWZ.WZSTOCKDETAIL sd,LKWZ.DICTWZKIND kd where (sd.FLOWNO=a.STOCKFLOWNO) and (d.KINDCODE=kd.KINDCODE and kd.CHOSCODE=a.cHosCode) and (a.cHosCode=?  and b.OUTDATE >= ? and b.OUTDATE <= ? ) and a.cHosCode=b.cHosCode and a.cHosCode=c.cHosCode and a.cHosCode=c1.cHosCode and a.cHosCode=sd.cHosCode and a.WZID=d.WZID and a.OUTID=b.OUTID and b.warecode=c.warecode and b.TARGETWARECODE=c1.warecode and b.OPFLAG=4  and (a.UNITCODE=zd.DICID and zd.DICGRPID=301)   [Condition] order by a.OUTID
+      ]]>
+    </sql>
+  </Opt>
+  <!--查询输入（改）-->
+  <Opt id="Query_FindWZKindWZXiaoQi">
+    <sql>
+      <![CDATA[
+      select KINDNAME,KINDCODE,SUPERCODE,IFUSE  from LKWZ.DICTWZKIND where( KINDCODE like ? or KINDNAME like ? or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?) ) and CHOSCODE = ?
+     ]]>
+    </sql>
+  </Opt>
+
+  <Opt id="Query_FindWZDictWZXiaoQi">
+    <sql>
+      <![CDATA[
+      select WZNAME,WZID,SHORTNAME,ALIASNAME  from LKWZ.DICTWZ where (WZID like ? or WZNAME like ? or SHORTNAME like ? or ALIASNAME like ? or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?)  )and CHOSCODE = ?
+     ]]>
+    </sql>
+  </Opt>
+  <Opt id="Query_GetOutWare">
+    <sql>
+      select WARENAME as 出库库房,WARECODE as 出库库房编码 from LKWZ.DICTWZWARE where  CHOSCODE=? and (WARENAME like ? or WARECODE like ? or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?))order by WARENAME
+    </sql>
+  </Opt>
+  <Opt id="Query_GetFactor">
+    <sql>
+      <![CDATA[
+      select SUPPLYNAME,SUPPLYID,PYCODE,WBCODE  from LKWZ.DICTWZSUPPLY where( SUPPLYID like ? or SUPPLYNAME like ?  or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?)) and  IFFACTORY=1 and CHOSCODE = ?
+     ]]>
+    </sql>
+  </Opt>
+  <Opt id="Query_GetSupplyer">
+    <sql>
+      <![CDATA[
+      select SUPPLYNAME,SUPPLYID,PYCODE,WBCODE  from LKWZ.DICTWZSUPPLY where( SUPPLYID like ? or SUPPLYNAME like ?  or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?)) and  IFSUPPLY=1 and CHOSCODE = ?
+     ]]>
+    </sql>
+  </Opt>
+  <Opt id="Query_GetMaker">
+    <sql>
+      <![CDATA[
+       select NAME,USERID,所属科室,CHOSCODE  from HIS.用户表 where( USERID like ? or NAME like ?  or 所属科室 like ? or upper(PYCODE) like upper(?))  and CHOSCODE = ?
+     ]]>
+    </sql>
+  </Opt>
+
+  <Opt id="Query_GetSHer">
+    <sql>
+      <![CDATA[
+       select NAME,USERID,所属科室,CHOSCODE  from HIS.用户表 where( USERID like ? or NAME like ?  or 所属科室 like ? or upper(PYCODE) like upper(?))  and CHOSCODE = ?
+     ]]>
+    </sql>
+  </Opt>
+
+  <Opt id="Query_GetSurer">
+    <sql>
+      <![CDATA[
+     select NAME,USERID,所属科室,CHOSCODE  from HIS.用户表 where( USERID like ? or NAME like ?  or 所属科室 like ? or upper(PYCODE) like upper(?))  and CHOSCODE = ?
+       ]]>
+    </sql>
+  </Opt>
+  <Opt id="Query_GetOutWare">
+    <sql>
+      select WARENAME as 出库库房,WARECODE as 出库库房编码 from LKWZ.DICTWZWARE where  CHOSCODE=? and (WARENAME like ? or WARECODE like ? or upper(PYCODE) like upper(?) or upper(WBCODE) like upper(?))order by WARENAME
+    </sql>
+  </Opt>
+  
+</opts>
+ 
+

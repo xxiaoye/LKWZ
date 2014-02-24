@@ -1,0 +1,285 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D6B8A0EE-63FB-42C9-8834-BC1390DD3174}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>YTMain</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>YTMain</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <PublishUrl>http://localhost/YTMain/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <Name>DevComponents.DotNetBar2</Name>
+      <HintPath>DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.IWshRuntimeLibrary">
+      <Name>Interop.IWshRuntimeLibrary</Name>
+      <HintPath>Interop.IWshRuntimeLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+      <HintPath>mscorlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+      <HintPath>System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+      <HintPath>System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Name>System.Deployment</Name>
+      <HintPath>System.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+      <HintPath>System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+      <HintPath>System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.Xml</Name>
+      <HintPath>System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="YiTian">
+      <Name>YiTian</Name>
+      <HintPath>YiTian.dll</HintPath>
+    </Reference>
+    <Reference Include="YtClient">
+      <Name>YtClient</Name>
+      <HintPath>YtClient.dll</HintPath>
+    </Reference>
+    <Reference Include="YtDict">
+      <Name>YtDict</Name>
+      <HintPath>YtDict.dll</HintPath>
+    </Reference>
+    <Reference Include="YtPlugin">
+      <Name>YtPlugin</Name>
+      <HintPath>YtPlugin.dll</HintPath>
+    </Reference>
+    <Reference Include="YtSys">
+      <Name>YtSys</Name>
+      <HintPath>YtSys.dll</HintPath>
+    </Reference>
+    <Reference Include="YtUtil">
+      <Name>YtUtil</Name>
+      <HintPath>YtUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="YtWinContrl">
+      <Name>YtWinContrl</Name>
+      <HintPath>YtWinContrl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain.contrl\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YTMain.contrl\MenuTree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="YTMain.contrl\SysMenu.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain.Properties\Resources.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain.Properties\Settings.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain.tool\AlertForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YTMain.tool\SetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YtMain\CHMain.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\HaveRightHandle.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\ILoginForm.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\Index.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\InitRepHandle.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\LoginSucHandle.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YtMain\LoginUtil.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YtMain\LogLook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YtMain\Main.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\RunMain.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\SetLocakDataContrl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YtMain\SuoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YTMain\SysMain.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\SysQd.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\SysSet.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YtMain\UMain.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\UrlLink.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YTMain\YwAlert.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="YtMain.CHMain.resx" />
+    <EmbeddedResource Include="YTMain.contrl.Form1.resx" />
+    <EmbeddedResource Include="YTMain.contrl.MenuTree.resx" />
+    <EmbeddedResource Include="YTMain.DelApp.exe" />
+    <EmbeddedResource Include="YTMain.Index.resx" />
+    <EmbeddedResource Include="YtMain.LogLook.resx" />
+    <EmbeddedResource Include="YtMain.Main.resx" />
+    <EmbeddedResource Include="YTMain.Properties.Resources.resx" />
+    <EmbeddedResource Include="YtMain.SuoForm.resx" />
+    <EmbeddedResource Include="YTMain.SysMain.resx" />
+    <EmbeddedResource Include="YTMain.tool.AlertForm.resx" />
+    <EmbeddedResource Include="YTMain.tool.SetForm.resx" />
+    <EmbeddedResource Include="YtMain.UMain.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

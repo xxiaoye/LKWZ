@@ -80,7 +80,7 @@ namespace BusinessManag
             this.dataGView1.reLoad(new object[] { r["USENO"], His.his.Choscode });
             //this.dataGView1.setFocus(rowid, 0);
 
-            if (this.dataGView1.RowCount <= rowid)//设置焦点
+            if (this.dataGView1.RowCount <= rowid)//设置焦点  我已经在git仓库中有修改
             {
                 this.dataGView1.setFocus(0, 0);
 
